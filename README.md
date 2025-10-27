@@ -31,11 +31,11 @@ This app tests your cricket knowledge with 10 multiple-choice questions and disp
 ## 📸 App Flow & Screenshots
 
 | Home Screen | Question Screen |
-|--------------|----------------|
-| ![Home Screen](Screenshots/home_screen.png) | ![Question Screen](Screenshots/question_screen.png) |
+|---|---|
+| <img src="screenshots/home_screen.png" alt="Home Screen" width="300"> | <img src="screenshots/question_screen.png" alt="Question Screen" width="300"> |
 
 | Answer Checked | Result Screen |
-|----------------|----------------|
-| ![Answer Checked](Screenshots/answer_screen.png) | ![Result Screen](Screenshots/result_screen.png) |
+|---|---|
+| <img src="screenshots/answer_checked.png" alt="Answer Checked" width="300"> | <img src="screenshots/result_screen.png" alt="Result Screen" width="300"> |
 
 
