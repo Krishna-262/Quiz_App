@@ -32,10 +32,10 @@ This app tests your cricket knowledge with 10 multiple-choice questions and disp
 
 | Home Screen | Question Screen |
 |---|---|
-| <img src="screenshots/home_screen.png" alt="Home Screen" width="300"> | <img src="screenshots/question_screen.png" alt="Question Screen" width="300"> |
+| <img src="Screenshots/home_screen.png" alt="Home Screen" width="300"> | <img src="Screenshots/question_screen.png" alt="Question_screen" width="300"> |
 
 | Answer Checked | Result Screen |
 |---|---|
-| <img src="screenshots/answer_checked.png" alt="Answer Checked" width="300"> | <img src="screenshots/result_screen.png" alt="Result Screen" width="300"> |
+| <img src="Screenshots/answer_screen.png" alt="Answer Checked" width="300"> | <img src="Screenshots/result_screen.png" alt="Result_screen" width="300"> |
 
 
