@@ -28,5 +28,14 @@ This app tests your cricket knowledge with 10 multiple-choice questions and disp
 
 ---
 
-## 📸 App Flow
+## 📸 App Flow & Screenshots
+
+| Home Screen | Question Screen |
+|--------------|----------------|
+| ![Home Screen](Screenshots/home_screen.png) | ![Question Screen](Screenshots/question_screen.png) |
+
+| Answer Checked | Result Screen |
+|----------------|----------------|
+| ![Answer Checked](Screenshots/answer_screen.png) | ![Result Screen](Screenshots/result_screen.png) |
+
 
